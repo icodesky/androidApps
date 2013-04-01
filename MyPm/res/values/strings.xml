@@ -4,5 +4,6 @@
     <string name="app_name">My Pm</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="_pm_2_5_">重庆空气质量PM 2.5实时报告</string>
 
 </resources>
